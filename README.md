@@ -2,7 +2,7 @@
 
 My name is Amrit Purshotam and I'm a machine learning engineer. I'm from South Africa, living in Amsterdam, and currently working at ING.
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritpurshotam&count_private=true&theme=dark&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
