@@ -2,10 +2,6 @@
 
 My name is Amrit Purshotam and I'm a machine learning engineer. I'm from South Africa, living in Amsterdam, and currently working at ING.
 
-### 🚶 My Journey
-
-I studied Computer Science at university and eventually graduated with a Masters where I worked on object recognition and classification problems. From there, I moved into software engineering and worked primarily in the financial services sector. Wanting to move back to machine learning, I transitioned to a data science role and have worked on a much wider range of problems relating to vehicle telematics, health & wellness, and logistics.
-
 ### 🛠️ What I'm building
 
 These are just some of personal projects that I work on in my spare time to improve my skills. Admittedly, these projects are still in their early stages.
