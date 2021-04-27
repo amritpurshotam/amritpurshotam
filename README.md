@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Amrit Purshotam and I'm a machine learning engineer. I'm from South Africa, living in Amsterdam, and currently working at ING.
 
 <!--
 **amritpurshotam/amritpurshotam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
