@@ -8,7 +8,7 @@ Here's some of my personal projects that I'm currently working on.
  * **Computer Vision Papers**: Reproduction of the papers that won the ImageNet challenge since 2012.
  * **DeepSARA**: A revisit of my MSc project where I built classification models for southern African rock art figures but this time using the latest approaches.
  * **MLOps Workflow**: Experimenting on a DS workflow that utilises various MLOps tooling and best practices to build a project on a toy problem where all code, data, results, and artifacts are versioned together, reproducible from any point in the project history, and can be easily shared for comment and review.
- * **park2vec**: An attempt to train general location vectors with OpenStreetMaps but focus on parkrun locations around the world.
+ * **park2vec**: An attempt to train general location vectors with OpenStreetMaps with the aim to use them build a parkrun course similarity tool.
 
 ### 📈 GitHub Stats
 
