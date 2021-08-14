@@ -10,7 +10,7 @@ Here are some projects that I work on in my spare time.
  * **[Baobab](https://github.com/deep-learning-indaba/Baobab/)**: I'm helping to build an event management platform that enables grass-roots community builders to scale their efforts when organising conferences that have complex requirements for selecting attendees. The application is primarily built for and used by the [Deep Learning Indaba](https://deeplearningindaba.com/) who I passionately support and helping build this is my way of contributing to their mission. 
 
 I'm also currently incubating the below projects while I figure out some final details before getting started in earnest.
- * **[DeepSARA](https://github.com/amritpurshotam/DeepSARA)**: A revisit of my MSc project where I built classification and detection models for [southern African rock art](http://www.sarada.co.za/#/library/) figures using classical ML and CV techniques. I'm now curious to see how well some deep learning approaches work.
+ * **[DeepSARA](https://github.com/amritpurshotam/DeepSARA)**: A revisit of my MSc project where I built classification and detection models for [southern African rock art](http://www.sarada.co.za/#/library/) figures using classical ML and CV techniques. I'm now curious to see how well some deep learning approaches work. But first I need to re-label the dataset.
  * **[park2vec](https://github.com/amritpurshotam/park2vec)**: I want to train general [location vectors](https://www.sentiance.com/2018/05/03/venue-mapping/) with the aim to use them to build a [parkrun](https://www.parkrun.com/) course similarity tool. I'm currently trying to wrangle OpenStreetMap data into a format that would be useful to train on. 
 
 ### 📈 GitHub Stats
