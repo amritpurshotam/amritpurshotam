@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-My name is Amrit Purshotam and I'm a machine learning engineer.
+My name is Amrit Purshotam and I'm a machine learning scientist.
 
 ### 🛠️ What I'm building
 
